@@ -1,0 +1,28 @@
+.hightlight {
+    background-color: #80c0b5;
+  }
+  
+  .navbar-style {
+    background-color: #000503 !important;
+    font-style:italic;
+  }
+  .login-style{
+    background-color: blue;
+  }
+  .customers-style{
+    background-color:blue;
+  }
+  
+  .green-highlight {
+    color: #008000;
+    font-size: 40px;
+  }
+  
+  .red-highlight {
+    color: #ff0000;
+    font-size: 25px;
+  }
+  
+  .hand-icon {
+    cursor: pointer;
+  }
